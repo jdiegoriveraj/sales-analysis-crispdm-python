@@ -3,7 +3,7 @@ End-to-end sales analysis using CRISP-DM, including KPIs, RFM segmentation and b
 
 # Sales Analysis using CRISP-DM
 
-End-to-end sales analysis using the **CRISP-DM methodology**, including KPIs, RFM customer segmentation, product performance analysis and actionable business insights, developed in **Python**.
+End-to-end sales analysis for a real liquid cleaning products business (Bclean), applying CRISP-DM to identify purchase patterns, segment customers (RFM) and support data-driven decision making in Python (Jupyter Notebook)
 
 ---
 
